@@ -1,0 +1,14 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: README
+
+chapters:
+  # ========================================
+  # project chapters below
+  # ========================================
+  - file: source/notebooks/01_data_cleaning_integration
+  - file: source/notebooks/02_feature_engineering_aggregation
+  - file: source/notebooks/03_exploratory_analysis
+  - file: source/notebooks/04_model_training_evaluation
