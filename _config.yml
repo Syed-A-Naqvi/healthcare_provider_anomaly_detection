@@ -8,7 +8,7 @@ copyright: "2025"
 
 # Custom Metadata
 project_metadata:
-  tags: ["Behavioral Analytics", "Provider Risk Scoring", "Statistical Profiling", "Supervised Learning"]
+  tags: ["Python", "Behavioral Analytics", "Provider Risk Scoring", "Statistical Profiling", "Supervised Learning"]
   # tags: ["tag 3", "tag 4"]
 
 # Sphinx exclude patterns
