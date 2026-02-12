@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 title: "Healthcare Provider Anomaly Detection: Aggregate Claim Analysis"
-description: "Developed a provider-level risk scoring system by aggregating 500,000+ claims to identify statistical outliers in billing behavior, service frequency, and beneficiary concentration. Utilized autoencoders and supervised learning to detect high-risk patterns indicative of upcoding and phantom billing."
+description: "Developed a provider-level risk scoring system to identify statistical outliers in billing behavior, service frequency, and beneficiary concentration."
 author: "Arham Naqvi"
 logo: "logo.png"
 copyright: "2025"
