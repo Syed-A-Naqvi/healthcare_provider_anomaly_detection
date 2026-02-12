@@ -1,6 +1,6 @@
 # Healthcare Provider Anomaly Detection: Aggregate Claim Analysis
 
-**Developed a provider-level risk scoring system to identify statistical outliers in billing behavior, service frequency, and beneficiary concentration.**
+**Developed a provider risk scoring system to identify statistical outliers in billing behavior, service frequency, and beneficiary concentration.**
 
 *Author: Arham Naqvi*
 
