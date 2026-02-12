@@ -1,5 +1,11 @@
-# Healthcare Provider Anomaly Detection
-blahblahblah
+# Healthcare Provider Anomaly Detection: Aggregate Claim Analysis
+
+**Developed a provider-level risk scoring system to identify statistical outliers in billing behavior, service frequency, and beneficiary concentration.**
+
+*Author: Arham Naqvi*
+
+*Last Updated: February 12th, 2026*
+
 ---
 ## Project Overview
 
